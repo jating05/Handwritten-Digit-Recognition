@@ -39,6 +39,10 @@ i)	Three Layer Convolutional Neural Network using Tensorflow:	99.70%
 
 ii)	Three Layer Convolutional Neural Network using Keras and Theano: 98.75%
 
+![image](https://github.com/jating05/Handwritten-Digit-Recognition/assets/72340077/6155d360-ebec-40ba-a47a-2b8f81dd0567)
+[Image Source](https://towardsdatascience.com/mnist-handwritten-digits-classification-using-a-convolutional-neural-network-cnn-af5fafbc35e9) 
+
+
 ## Test Images Classification Output:
 
 <img width="807" alt="Screenshot 2023-10-09 at 6 10 15 PM" src="https://github.com/jating05/Handwritten-Digit-Recognition/assets/72340077/17a3dada-b663-4e5f-9eda-1fc9fc85ac2f">
